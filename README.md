@@ -8,5 +8,5 @@
 #define CTS1                D3
 #define RTS1                D2
 ```
-3. Run the python app - No args needed. Baud / other settings need to be modified with in the app if needed
+3. Run the python app - Change the Serial port. Baud / other settings need to be modified with in the app if needed
 4. Ensure flow control is working; You will see that the data is transfered continuously both ways. Momentarily disconnect CTS line and verify that data should stop
