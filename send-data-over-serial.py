@@ -13,4 +13,4 @@ while (1):
 	ser.write("cccccccccccccccccccccccccccccccccccccccccccccccccc\n")
 	ser.flush()
 
-ser.close()
+# ser.close()
